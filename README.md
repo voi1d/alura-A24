@@ -1,4 +1,4 @@
-# Movies Search Project
+# Movies Search A24 Project
 
 Este é um simples projeto de pesquisa de filmes da A24 que utiliza HTML, CSS e JavaScript para criar uma interface de busca de filmes baseada em um conjunto de dados predefinidos.
 
@@ -26,5 +26,5 @@ Para rodar este projeto, você precisará de:
 
 ## Como Usar
 
-1. Acessew esse repositorio:
+1. Acesse esse repositorio:
 [git clone https://github.com/seu-usuario/seu-repositorio.git](https://alura-a24.vercel.app/)
