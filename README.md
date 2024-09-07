@@ -26,5 +26,5 @@ Para rodar este projeto, você precisará de:
 
 ## Como Usar
 
-1. Clone este repositório:
+1. Acessew esse repositorio:
 [git clone https://github.com/seu-usuario/seu-repositorio.git](https://alura-a24.vercel.app/)
